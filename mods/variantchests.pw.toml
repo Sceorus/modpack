@@ -1,0 +1,13 @@
+name = "Variant Chests [Fabric | Forge]"
+filename = "variantchests-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "793e8aa9978732ea2e8a8b08de11a84a40ec7e59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5091083
+project-id = 690839

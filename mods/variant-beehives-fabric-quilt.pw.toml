@@ -1,0 +1,13 @@
+name = "Variant Beehives [Fabric | Quilt]"
+filename = "variantbeehives-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3df3628d0f9482576cb3be78207cb1cd3159cf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5035127
+project-id = 895484

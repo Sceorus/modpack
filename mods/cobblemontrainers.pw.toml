@@ -1,0 +1,13 @@
+name = "CobblemonTrainers"
+filename = "CobblemonTrainers-fabric-1.1.2+1.20.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "a833ea73b68a069c924f5e74d447a5aa70969aa3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5293638
+project-id = 959503

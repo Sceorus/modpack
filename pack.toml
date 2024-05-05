@@ -1,0 +1,13 @@
+name = "Sceorus_Cogs&Mons"
+author = "Agrannok"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7a3ceeaf599dfd04e306b1118486c00d019bfbcc5aac3af8b7ee7b9c79f57b9"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"

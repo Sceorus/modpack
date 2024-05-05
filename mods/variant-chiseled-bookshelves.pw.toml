@@ -1,0 +1,13 @@
+name = "Variant Chiseled Bookshelves [Fabric | Forge]"
+filename = "variantchiseledbookshelves-1.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0181a3ea03ad9b7d987bf2dc713a99bc5b8f3d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5133413
+project-id = 714331

@@ -1,0 +1,13 @@
+name = "Inventorio (Fabric)"
+filename = "inventorio-mc1.20.1-fabric-v1.10.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "757847a85ffeeb422cf81bb641475cccb5dc9a39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5262235
+project-id = 491073
